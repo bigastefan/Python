@@ -1,0 +1,8 @@
+ne|Albert Kami|Stranac|2003|69|890|1234123412342|roman
+da|Danilo Kis|Enciklopedija mrtvih|2001|73|1200|1231234412346|roman
+da|Ivo Andric|Most na zepi|1999|133|1290|1234234523455|roman
+da|Onore de Balzak|Cica Gorio|1990|169|1800|1232343450987|roman
+da|Ana Bucevic|Safari|2014|187|1490|1234512345123|autobiografija
+da|Petar Petrovic Njegos|Gorski Vijenac|2003|52|1200|5342345644534|drama
+da|Njegos|Vijenac|2000|14|1234|1212342345656|drama
+da|12|12|1999|12|12000|1232657489878|roman
